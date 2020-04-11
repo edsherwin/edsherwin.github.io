@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jenkins on ed sherwin nonog</title>
+    <link>/tags/jenkins/</link>
+    <description>Recent content in jenkins on ed sherwin nonog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/jenkins/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dockerized Sonarqube, Sonar Scanner through Jenkins</title>
+      <link>/projects/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/projects/</guid>
+      <description>Installation Step 1: Clone the repository to your local machine. $ git clone https://github.com/edsherwin/docker-sonar-jenkins.git Step 2: Instantiate then Jenkins using the Dockerfile.jenkins $ docker build -t jenkins-docker -f Dockerfile.jenkins . $ docker run -d -p 8080:8080 -p 50000:50000 -v /var/run/docker.sock:/var/run/docker.sock --name jenkins-docker jenkins-docker:latest Step 3: Check if the Jenkins is running. Also, check if it&amp;rsquo;s mounted to the host machine&amp;rsquo;s Docker socket in the container. This will allow your container to use the host machine&amp;rsquo;s Docker daemon to run containers and build images.</description>
+    </item>
+    
+  </channel>
+</rss>
