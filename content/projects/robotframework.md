@@ -1,7 +1,7 @@
 +++
 title = "Setting up Robot Framework"
 description = "Test Inside Containers: Dockerized Robot Framework Tests"
-slug = "projects"
+slug = "test-inside-containers_dockerized-robotframework-tests"
 tags = [
     "docker",
     "jenkins",

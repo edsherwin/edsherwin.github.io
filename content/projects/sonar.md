@@ -1,7 +1,7 @@
 +++
 title = "Dockerized Sonarqube, Sonar Scanner through Jenkins"
 description = "Setting the project"
-slug = "projects"
+slug = "dockerized-sonarqube-using-jenkins-pipeline"
 tags = [
     "docker",
     "cli",
