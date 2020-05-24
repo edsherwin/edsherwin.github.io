@@ -1,3 +1,3 @@
 ---
-title: Contact me
+title: Contact Me
 ---

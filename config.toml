@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "ed sherwin nonog"
+#title = "ed sherwin nonog"
 theme = "hugo-coder"
 
 googleAnalytics = "UA-3836052-1"
@@ -70,14 +70,23 @@ disqusShortname = "ednonog"
 
 # Menu links
 [[menu.main]]
-    name = "About"
+    name = "Home"
     weight = 1
+    url  = "/"
+[[menu.main]]
+    name = "About"
+    weight = 2
     url  = "/about/"
 [[menu.main]]
     name = "Projects"
-    weight = 2
+    weight = 3
     url  = "/projects/"
 [[menu.main]]
-    name = "Contact me"
-    weight = 3
+    name = "Services"
+    weight = 4
+    url  = "/services/"
+[[menu.main]]
+    name = "Contact"
+    weight = 5
     url  = "/contact/"
+
