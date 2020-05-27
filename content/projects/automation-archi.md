@@ -1,6 +1,6 @@
 +++
 title = "Orchestrating a dockerized Robot Framework test through Kubernetes"
-description = "Tools for automation"
+description = "Automation setup"
 slug = "orchestrating-dockerized-robotframework-test-through-kubernetes"
 tags = [
     "docker",
@@ -17,24 +17,33 @@ categories = [
 
 #### Tools Stack
 
-- Robot Framework
-- Jenkins
-- Docker
-- Kubernetes
-- Kibana
-- Grafana
+_To know more about these tools stack, please click the links below._
 
-#### Design Workflows
+* [Robot Framework](https://robotframework.org/)
+* [Jenkins](https://www.jenkins.io/)
+* [Docker](https://www.docker.com/)
+* [Kubernetes](https://kubernetes.io/)
+* [Kibana](https://www.elastic.co/kibana)
+* [Grafana](https://grafana.com/)
+* [Slack](https://slack.com/intl/en-ph/)
 
+#### Design Diagrams
 
-_Pipeline_
-![alt text](/img/ver1.jpg)
+**Pipeline**
 
-_Dockerized Robot Framework Test_
+![alt text](/img/ver1.0.jpg "Pipeline")
 
-![alt text](/img/ver2.jpg)
+**Dockerized Robot Framework Test**
 
-- Setting Environment variables
-- Maintanable Dockerfile
-- Deployed as a K8s Job
+* Setting Environment variables
+* Maintanable Dockerfile
+* Deployed as a K8s Job
+
+![alt text](/img/ver2.0.jpg "Robot Container")
+
+#### Resources
+
+[Robot Framework Repository](https://github.com/edsherwin/robotframework-docker)  
+[Slack Channnel](#)
+
 

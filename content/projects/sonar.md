@@ -1,6 +1,6 @@
 +++
 title = "Dockerized Sonarqube, Sonar Scanner through Jenkins"
-description = "Scan your code without hassle :)"
+description = "Scan code without hassle"
 slug = "dockerized-sonarqube-using-jenkins-pipeline"
 tags = [
     "docker",
@@ -13,8 +13,8 @@ categories = [
     "Projects",
 ]
 +++
-
 ### Overview
+
 SonarQube is an open-source automatic code review tool to detect bugs, vulnerabilities, and code smells in your code. It provides us with a beautiful dashboard with the functionality of in-detail scanning data where we can analyze our code quality and improve it.
 
 ### Installation
@@ -22,7 +22,7 @@ SonarQube is an open-source automatic code review tool to detect bugs, vulnerabi
 Step 1: Clone the repository to your local machine.
 
 ```sh
-$ git clone https://github.com/edsherwin/docker-sonar-jenkins.git
+$ git clone https://github.com/edsherwin/docker-sonar-jenkins.git   
 ```
 
 Step 2: Instantiate then Jenkins using the _Dockerfile.jenkins_

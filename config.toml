@@ -23,7 +23,7 @@ disqusShortname = "ednonog"
     keywords = "personal, QA, blog, resume"
     avatarurl = "/img/avatar-ed.png"
 
-    favicon_32 = "/img/favicon.ico"
+    #favicon_32 = "/img/favicon.ico"
     #favicon_16 = "/img/favicon.ico"
 
     footercontent = ""
