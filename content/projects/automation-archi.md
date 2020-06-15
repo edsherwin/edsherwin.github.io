@@ -17,7 +17,7 @@ categories = [
 
 #### Tools Stack
 
-_To know more about these tools stack, please click the links below._
+_To know more about these, please click the links below._
 
 * [Robot Framework](https://robotframework.org/)
 * [Jenkins](https://www.jenkins.io/)
@@ -31,7 +31,7 @@ _To know more about these tools stack, please click the links below._
 
 **Pipeline**
 
-![alt text](/img/ver1.0.jpg "Pipeline")
+![alt text](/img/ver1.1.jpg "Pipeline")
 
 **Dockerized Robot Framework Test**
 
@@ -41,9 +41,19 @@ _To know more about these tools stack, please click the links below._
 
 ![alt text](/img/ver2.0.jpg "Robot Container")
 
+#### How it works / Ideas 
+
+* QE/DevOps push the code changes to the repository including config service
+* Dockerized robotframework - packages and libraries needed
+* Jenkins Pipeline - Start to End (Refer to the diagram)
+* Maintanable Dockerfile of Robot Framework 
+* Execution of dockerized robotframework in k8s as a POD
+* Parallel execution in different environment (DEV, QA, STG and PROD) tru config service
+* setting of  inject variable to which environment will be running of dockerized scripts
+
 #### Resources
 
-[Robot Framework Repository](https://github.com/edsherwin/robotframework-docker)  
+[Robot Framework Repository](#)  
 [Slack Channnel](#)
 
 

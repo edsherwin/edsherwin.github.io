@@ -18,7 +18,7 @@ disqusShortname = "ednonog"
 
 [params]
     author = "Ed Sherwin Nonog"
-    info = "Software QA Engineer"
+    info = "Passionate in Software QA Engineer"
     description = "It's all about me."
     keywords = "personal, QA, blog, resume"
     avatarurl = "/img/avatar-ed.png"
@@ -84,7 +84,7 @@ disqusShortname = "ednonog"
 [[menu.main]]
     name = "Services"
     weight = 4
-    url  = "/services/"
+    url  = "#"
 [[menu.main]]
     name = "Contact"
     weight = 5
