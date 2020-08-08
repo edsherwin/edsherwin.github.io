@@ -40,7 +40,7 @@ models:
       - type: boolean
         name: pygmentscodefencesguesssyntax
       - type: string
-        name: disqusShortname
+        name: ednonog
       - type: object
         name: params
         label: Params

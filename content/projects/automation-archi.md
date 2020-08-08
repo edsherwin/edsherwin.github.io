@@ -49,7 +49,8 @@ _To know more about these, please click the links below._
 * Maintanable Dockerfile of Robot Framework 
 * Execution of dockerized robotframework in k8s as a POD
 * Parallel execution in different environment (DEV, QA, STG and PROD) tru config service
-* setting of  inject variable to which environment will be running of dockerized scripts
+* Setting of  inject variable to which environment will be running of dockerized scripts
+* Push Docker the image of robot framework to Docker Registry (Dockerhub)
 
 #### Resources
 
