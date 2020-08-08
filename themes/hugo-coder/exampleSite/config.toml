@@ -13,7 +13,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "ednonog"
+disqusShortname = "edsherwinn-netlify-app"
 
 [params]
     author = "John Doe"

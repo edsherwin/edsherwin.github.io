@@ -14,7 +14,7 @@ pygmentsstyle = "tango"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "ednonog"
+disqusShortname = "edsherwinn-netlify-app"
 
 [params]
     author = "Ed Sherwin Nonog"
