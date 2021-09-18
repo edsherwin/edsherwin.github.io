@@ -1,5 +1,5 @@
 +++
-title = "Page under contsruction"
+title = "Page is under construction"
 +++
 
 test
