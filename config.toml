@@ -18,7 +18,7 @@ disqusShortname = "edsherwinn-netlify-app"
 
 [params]
     author = "Ed Sherwin Nonog"
-    info = "Passionate in Software QA Engineer"
+    info = "Software Quality Engineer"
     description = "It's all about me."
     keywords = "personal, QA, blog, resume"
     avatarurl = "/img/avatar-ed.png"
@@ -61,11 +61,11 @@ disqusShortname = "edsherwinn-netlify-app"
     icon = "fab fa-instagram fa-2x"
     weight = 5
     url = "https://instagram.com/edsherween"
-[[params.social]]
-    name = "Keybase"
-    icon = "fab fa-keybase fa-2x"
-    weight = 6
-    url = "#"
+# [[params.social]]
+#     name = "Keybase"
+#     icon = "fab fa-keybase fa-2x"
+#     weight = 6
+#     url = "#"
 
 
 # Menu links
@@ -73,20 +73,20 @@ disqusShortname = "edsherwinn-netlify-app"
     name = "Home"
     weight = 1
     url  = "/"
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url  = "/about/"
+# [[menu.main]]
+#     name = "About"
+#     weight = 2
+#     url  = "/about"
 [[menu.main]]
     name = "Projects"
     weight = 3
     url  = "/projects/"
-[[menu.main]]
-    name = "Services"
-    weight = 4
-    url  = "#"
-[[menu.main]]
-    name = "Contact"
-    weight = 5
-    url  = "/contact/"
+# [[menu.main]]
+#     name = "Services"
+#     weight = 4
+#     url  = "/services"
+# [[menu.main]]
+#     name = "Contact"
+#     weight = 5
+#     url  = "/contact"
 
